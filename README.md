@@ -1,6 +1,8 @@
 # Food-Vision-Classifier
 It is an end-to-end Binary Image Classifier built using Computer Vision. 
 
+All the file names starting with Transfer_Learning are some experiments conducted by me while learning Transfer Learning.
+
 In 'main_Food_Vision.ipynb', i have beat the score achieved by the Food101 model.
 
 # The dataset used : 
