@@ -1,5 +1,5 @@
 # Food-Vision-Classifier
-It is an end-to-end **Image Classifier** built using **Computer Vision**. 
+An end-to-end **Image Classifier** built using **Computer Vision**. 
 
 File names starting with `Transfer_Learning.....` are notebooks containing some experiments conducted by me while learning Transfer Learning.
 
