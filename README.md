@@ -1,7 +1,8 @@
 # Food-Vision-Classifier
 An end-to-end **Image Classifier** built using **Computer Vision**. 
 
-File names starting with `Transfer_Learning.....` are notebooks containing some experiments conducted by me while learning Transfer Learning.
+This repo also contains some experiments conducted while learning `Transfer Learning`.
+File names starting with `Transfer_Learning.....` are the notebooks containing the above said experiments.
 
 In `main_Food_Vision.ipynb`, i have beat the score achieved by the `Food101` model.
 
